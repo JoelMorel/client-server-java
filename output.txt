@@ -1,0 +1,190 @@
+Server:
+
+Server is starting... 
+waiting for incoming connections...
+Client connected successfully!
+waiting for incoming connections...
+Client connected successfully!
+HelperThread-1 started
+waiting for incoming connections...
+Client connected successfully!
+waiting for incoming connections...
+Client connected successfully!
+HelperThread-2 started
+waiting for incoming connections...
+Client connected successfully!
+HelperThread-3 started
+HelperThread-4 started
+waiting for incoming connections...
+HelperThread-5 started
+Client connected successfully!
+waiting for incoming connections...
+Client connected successfully!
+HelperThread-6 started
+waiting for incoming connections...
+Client connected successfully!
+HelperThread-7 started
+waiting for incoming connections...
+Client connected successfully!
+HelperThread-8 started
+waiting for incoming connections...
+HelperThread-9 started
+ServerHelper-1: reading Controller method: 0
+ServerHelper-1: reading Shuttle method: 0
+ServerHelper-1: reading Supervisor method: 0
+ServerHelper-3: reading Shuttle method: 0
+ServerHelper-7: reading Shuttle method: 0
+ServerHelper-4: reading Shuttle method: 0
+ServerHelper-2: reading Shuttle method: 0
+ServerHelper-5: reading Shuttle method: 0
+ServerHelper-6: reading Shuttle method: 0
+ServerHelper-7: creating ServerShuttle-7
+ServerHelper-7: reading 1 from ShuttleClient-9
+Shuttle- running method number 0
+[3] Shuttle-7: is moving to recharge station
+ServerHelper-3: creating ServerShuttle-3
+ServerHelper-3: reading 1 from ShuttleClient-9
+Shuttle- running method number 0
+[4] Shuttle-3: is moving to recharge station
+ServerHelper-5: creating ServerShuttle-5
+ServerHelper-5: reading 1 from ShuttleClient-9
+[4] Shuttle-7: Sleeping for 2107
+ServerHelper-2: creating ServerShuttle-2
+ServerHelper-2: reading 1 from ShuttleClient-9
+Shuttle- running method number 0
+[4] Shuttle-2: is moving to recharge station
+[4] Shuttle-2: Sleeping for 4649
+ServerHelper-1: creating ServerSupervisor-1
+ServerHelper-1: reading 0 from ShuttleClient-9
+ServerHelper-1 is done executing, will terminate.
+[5] Shuttle-3: Sleeping for 2088
+Shuttle- running method number 0
+[5] Shuttle-5: is moving to recharge station
+ServerHelper-4: creating ServerShuttle-4
+[5] Shuttle-5: Sleeping for 2055
+ServerHelper-4: reading 1 from ShuttleClient-9
+Shuttle- running method number 0
+[5] Shuttle-4: is moving to recharge station
+[5] Shuttle-4: Sleeping for 1892
+ServerHelper-1: creating ServerShuttle-1
+ServerHelper-1: reading 1 from ShuttleClient-9
+Shuttle- running method number 0
+[6] Shuttle-1: is moving to recharge station
+[6] Shuttle-1: Sleeping for 1937
+ServerHelper-1: creating ServerController-1
+ServerHelper-1: reading 0 from ShuttleClient-9
+ServerHelper-1 is done executing, will terminate.
+ServerHelper-6: creating ServerShuttle-6
+ServerHelper-6: reading 1 from ShuttleClient-9
+Shuttle- running method number 0
+[8] Shuttle-6: is moving to recharge station
+[8] Shuttle-6: Sleeping for 729
+[742] Shuttle-6: is in recharge zone
+[743] Shuttle-6: filled up by 100. New amount of fuel is: 100
+ServerHelper-6: reading 2 from ShuttleClient-9
+Shuttle- running method number 1
+[744] Shuttle-6: is moving to the dock zone
+[744] Shuttle-6: Sleeping for 589
+ServerHelper-6: reading 3 from ShuttleClient-9
+Shuttle- running method number 2
+[1334] Shuttle-6: is waiting to take off
+[1334] Shuttle-6: is taking off
+ServerHelper-6 is done executing, will terminate.
+[1903] Shuttle-4: is in recharge zone
+[1903] Shuttle-4: filled up by 79. New amount of fuel is: 79
+ServerHelper-4: reading 2 from ShuttleClient-9
+Shuttle- running method number 1
+[1903] Shuttle-4: is moving to the dock zone
+[1903] Shuttle-4: Sleeping for 3731
+[1948] Shuttle-1: is in recharge zone
+[1948] Shuttle-1: filled up by 50. New amount of fuel is: 50
+ServerHelper-1: reading 2 from ShuttleClient-9
+Shuttle- running method number 1
+[1948] Shuttle-1: is moving to the dock zone
+[1948] Shuttle-1: Sleeping for 693
+[2061] Shuttle-5: is in recharge zone
+[2061] Shuttle-5: filled up by 81. New amount of fuel is: 81
+ServerHelper-5: reading 2 from ShuttleClient-9
+Shuttle- running method number 1
+[2061] Shuttle-5: is moving to the dock zone
+[2061] Shuttle-5: Sleeping for 4484
+[2093] Shuttle-3: is in recharge zone
+[2094] Shuttle-3: filled up by 80. New amount of fuel is: 80
+ServerHelper-3: reading 2 from ShuttleClient-9
+Shuttle- running method number 1
+[2094] Shuttle-3: is moving to the dock zone
+[2094] Shuttle-3: Sleeping for 4698
+[2111] Shuttle-7: is in recharge zone
+[2112] Shuttle-7: filled up by 65. New amount of fuel is: 65
+ServerHelper-7: reading 2 from ShuttleClient-9
+Shuttle- running method number 1
+[2112] Shuttle-7: is moving to the dock zone
+[2112] Shuttle-7: Sleeping for 822
+ServerHelper-1: reading 3 from ShuttleClient-9
+Shuttle- running method number 2
+[2642] Shuttle-1: is waiting to take off
+[2642] Shuttle-1: is taking off
+ServerHelper-1 is done executing, will terminate.
+ServerHelper-7: reading 3 from ShuttleClient-9
+Shuttle- running method number 2
+[2935] Shuttle-7: is waiting to take off
+[2935] Shuttle-7: is taking off
+ServerHelper-7 is done executing, will terminate.
+[4654] Shuttle-2: is in recharge zone
+[4654] Shuttle-2: filled up by 69. New amount of fuel is: 69
+ServerHelper-2: reading 2 from ShuttleClient-9
+Shuttle- running method number 1
+[4654] Shuttle-2: is moving to the dock zone
+[4654] Shuttle-2: Sleeping for 3390
+ServerHelper-4: reading 3 from ShuttleClient-9
+Shuttle- running method number 2
+[5639] Shuttle-4: is waiting to take off
+[5639] Shuttle-4: is taking off
+ServerHelper-4 is done executing, will terminate.
+ServerHelper-5: reading 3 from ShuttleClient-9
+Shuttle- running method number 2
+[6549] Shuttle-5: is waiting to take off
+[6549] Shuttle-5: is taking off
+ServerHelper-5 is done executing, will terminate.
+ServerHelper-3: reading 3 from ShuttleClient-9
+Shuttle- running method number 2
+[6792] Shuttle-3: is waiting to take off
+[6792] Shuttle-3: is taking off
+ServerHelper-3 is done executing, will terminate.
+ServerHelper-2: reading 3 from ShuttleClient-9
+Shuttle- running method number 2
+[8047] Shuttle-2: is waiting to take off
+[8048] Shuttle-2: is taking off
+ServerHelper-2 is done executing, will terminate.
+
+Client:
+
+ShuttleClient-1 started
+ShuttleClient-3 started
+ShuttleClient-2 started
+ShuttleClient-4 started
+ShuttleClient-5 started
+ShuttleClient-6 started
+ShuttleClient-7 started
+ControllerClient-1 started
+SupervisorClient-1 started
+ControllerClient-1 sending message to SeverHelper: openChargingStationgoHome
+ShuttleClient-7 sending message to SeverHelper: recharge moveToDock takeOff
+ShuttleClient-6 sending message to SeverHelper: recharge moveToDock takeOff
+ShuttleClient-5 sending message to SeverHelper: recharge moveToDock takeOff
+ShuttleClient-2 sending message to SeverHelper: recharge moveToDock takeOff
+ShuttleClient-4 sending message to SeverHelper: recharge moveToDock takeOff
+ShuttleClient-3 sending message to SeverHelper: recharge moveToDock takeOff
+SupervisorClient-1 sending message to SeverHelper: signalDeparturegoHome
+ShuttleClient-1 sending message to SeverHelper: recharge moveToDock takeOff
+ServerHelper-5: received message from Shuttle-5
+ServerHelper-2: received message from Shuttle-2
+ServerHelper-4: received message from Shuttle-4
+ServerHelper-7: received message from Shuttle-7
+ServerHelper-3: received message from Shuttle-3
+ServerHelper-1: received message from Supervisor-1
+ServerHelper-1: received message from Shuttle-1
+ServerHelper-1: received message from Controller-1
+ServerHelper-6: received message from Shuttle-6
+
+Process finished with exit code 0
